@@ -1,7 +1,7 @@
 ---
 title: Agentic-RL-1-基础概念
 date: 2026-11-17 14:51:48
-tags:agentic rl
+tags: agentic rl
 ---
 
 ## 基本概念
