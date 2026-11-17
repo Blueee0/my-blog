@@ -46,5 +46,4 @@ npx hexo new post "文章标题"
 
 向 `main` 分支推送代码，或手动运行 `.github/workflows/pages.yml`，会触发 GitHub Pages 构建和部署流程。
 
-注意：当前工作流的 Checkout 步骤尚未配置初始化子模块。使用 NexT 主题部署前，需要在该步骤启用 `submodules: recursive`，确保构建环境包含 `themes/next/`。
-
+工作流会通过 `submodules: recursive` 自动下载 NexT 主题子模块，确保云端构建环境包含 `themes/next/`。
