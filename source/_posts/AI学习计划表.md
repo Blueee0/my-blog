@@ -28,23 +28,21 @@ tags: todolist
 - Agent基础
   - Agent 学习主线 Blog：[Agent Learning Hub](https://github.com/datawhalechina/Agent-Learning-Hub)
   - 基于Langchain构造生产级Agent：[Deep Agents 实战](https://github.com/datawhalechina/deepagents-in-action)
-
 - Harness Engineering
   - 主线学习：[欢迎来到 Learn Harness Engineering | Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/zh/)
   - 相关文章：[刚刚，一篇最全Agent Harness综述来了！](https://mp.weixin.qq.com/s/pG39PRnZFjSIxwYcPKD47A)、[Agent Harness六大组件解析](https://mp.weixin.qq.com/s/HwqEaXSGkcYgUNrzB2okuA)
   - MCP开发教程：[MCP 开发教程](https://mp.weixin.qq.com/s/8qB8xcp8d3yYXnGZNlutEA)
-
+  - Harness Hook组织工具失败：[Agent改了40个文件你才发现？用Harness Hook把止损写进架构](https://mp.weixin.qq.com/s/0nO92ufveC_cXjkMiontNg)
 - 现成Harness框架
   - OpenClaw：[李宏毅讲解](https://mp.weixin.qq.com/s/B0xYl5EvSXUNc-wP1EMVGw)、[腾讯代码框架解读](https://mp.weixin.qq.com/s/Q0CC0p5e-DQEYEk5ErQB1Q)、[阿里云上篇](https://mp.weixin.qq.com/s/wVcItgqsCiwl9-PZ56z27w)、[阿里云下篇](https://mp.weixin.qq.com/s/FUJEofqbK7vX-J64UX8Nkg)
   - Hermes：[Hermes Agent 介绍](https://mp.weixin.qq.com/s/vUKXk0Maj6TvuD6BPLY2bQ)
   - Claude Code：[learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)、[源码学习仓库](https://github.com/openedclaude/claude-reviews-claude?tab=readme-ov-file)、[源码解读](https://mp.weixin.qq.com/s/LbvqZLhvtah31O3aVFGXcg)、[简易实现](https://github.com/Windy3f3f3f3f/claude-code-from-scratch)
   - Codex：[源码](https://github.com/openai/codex)、[解读一](https://mp.weixin.qq.com/s/fbKi7IrAvmv49IfJbI9w7Q)、[解读二](https://blog.csdn.net/aidoudoulong/article/details/163941019)
   - DeepSeek Harness：[代码](https://github.com/deepseek-ai/deepseek-harness)、[桌面版与 CLI](https://mp.weixin.qq.com/s/uIFETPQyOY59gt7dNGKgHQ)、[插件解读](https://mp.weixin.qq.com/s/r4C-RR1CthFooA7iZl6hzg)
-
 - Agent架构流
+  - SuperAgent：[DeepSeek SuperAgent 介绍](https://mp.weixin.qq.com/s/LZxAxf0EO74YHQnZ2YOT9A)、[一文拆解DSH Super-agent双层架构：如何做到后台跑任务、前台继续接活](https://mp.weixin.qq.com/s/VMf36Wn27Iief5ydZkr3NQ)、[Agent 自动化系统](https://github.com/KKKKhazix/agent-autoloop)
+  -  harness²：[维护3.3万字符的长Prompt？让优化Agent迭代执行Agent](https://mp.weixin.qq.com/s/pMQFjkllDxcqSJhh_aZjZQ)
   - [登上GitHub Trending｜腾讯开源 LoopForge](https://mp.weixin.qq.com/s/-gagDmalGrKyTtA-1dc8BQ)
-  - SuperAgent：[DeepSeek SuperAgent 介绍](https://mp.weixin.qq.com/s/LZxAxf0EO74YHQnZ2YOT9A)、[Agent 自动化系统](https://github.com/KKKKhazix/agent-autoloop)
-
 
 ## 4. 最新LLM应用
 
