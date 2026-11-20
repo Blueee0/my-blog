@@ -43,6 +43,7 @@ tags: todolist
   - SuperAgent：[DeepSeek SuperAgent 介绍](https://mp.weixin.qq.com/s/LZxAxf0EO74YHQnZ2YOT9A)、[一文拆解DSH Super-agent双层架构：如何做到后台跑任务、前台继续接活](https://mp.weixin.qq.com/s/VMf36Wn27Iief5ydZkr3NQ)、[Agent 自动化系统](https://github.com/KKKKhazix/agent-autoloop)
   -  harness²：[维护3.3万字符的长Prompt？让优化Agent迭代执行Agent](https://mp.weixin.qq.com/s/pMQFjkllDxcqSJhh_aZjZQ)
   - [登上GitHub Trending｜腾讯开源 LoopForge](https://mp.weixin.qq.com/s/-gagDmalGrKyTtA-1dc8BQ)
+  - [中兴开源企业级Harness，内部2000人使用！](https://mp.weixin.qq.com/s/tzBFFAbN-VbrtczsBHSI5Q)
 
 ## 4. 最新LLM应用
 
